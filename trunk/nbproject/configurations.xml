@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="69">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true"
+                   kind="SOURCE_LOGICAL_FOLDER">
+      <logicalFolder name="f3"
+                     displayName="Enemigos"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>include/Enemigos/Bola.h</itemPath>
+        <itemPath>include/Enemigos/Cuadrado.h</itemPath>
+        <itemPath>include/Enemigos/Gusano.h</itemPath>
+        <itemPath>include/Enemigos/Jefe.h</itemPath>
+        <itemPath>include/Enemigos/Rueda.h</itemPath>
+        <itemPath>include/Enemigos/Triangulo.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1"
+                     displayName="Estados"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>include/Estados/EstadoCancion.h</itemPath>
+        <itemPath>include/Estados/EstadoFin.h</itemPath>
+        <itemPath>include/Estados/EstadoGameOver.h</itemPath>
+        <itemPath>include/Estados/EstadoMenu.h</itemPath>
+        <itemPath>include/Estados/EstadoPartida.h</itemPath>
+        <itemPath>include/Estados/EstadoTutorial.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f2"
+                     displayName="GUI"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>include/GUI/Boton.h</itemPath>
+        <itemPath>include/GUI/CampoTexto.h</itemPath>
+        <itemPath>include/GUI/Panel.h</itemPath>
+        <itemPath>include/GUI/Texto.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f6"
+                     displayName="IAEnemigos"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>include/IAEnemigos/IABola.h</itemPath>
+        <itemPath>include/IAEnemigos/IACuadrado.h</itemPath>
+        <itemPath>include/IAEnemigos/IAGusano.h</itemPath>
+        <itemPath>include/IAEnemigos/IARueda.h</itemPath>
+        <itemPath>include/IAEnemigos/IATriangulo.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f5"
+                     displayName="LD"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>include/LD/FuzzyModule.h</itemPath>
+        <itemPath>include/LD/FuzzyRule.h</itemPath>
+        <itemPath>include/LD/FuzzySet.h</itemPath>
+        <itemPath>include/LD/FuzzySet_LeftShoulder.h</itemPath>
+        <itemPath>include/LD/FuzzySet_RightShoulder.h</itemPath>
+        <itemPath>include/LD/FuzzySet_Trapezium.h</itemPath>
+        <itemPath>include/LD/FuzzySet_Triangle.h</itemPath>
+        <itemPath>include/LD/FuzzyTerm.h</itemPath>
+        <itemPath>include/LD/FuzzyVariable.h</itemPath>
+        <itemPath>include/LD/FzAnd.h</itemPath>
+        <itemPath>include/LD/FzFairly.h</itemPath>
+        <itemPath>include/LD/FzOr.h</itemPath>
+        <itemPath>include/LD/FzSet.h</itemPath>
+        <itemPath>include/LD/FzVery.h</itemPath>
+        <itemPath>include/LD/LDAux.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f4"
+                     displayName="Objetos"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>include/Objetos/Bala.h</itemPath>
+        <itemPath>include/Objetos/BloqueSimetrico.h</itemPath>
+        <itemPath>include/Objetos/BloquesSimetricos.h</itemPath>
+        <itemPath>include/Objetos/Estrella.h</itemPath>
+        <itemPath>include/Objetos/Meta.h</itemPath>
+        <itemPath>include/Objetos/Pico.h</itemPath>
+        <itemPath>include/Objetos/Pinchos.h</itemPath>
+        <itemPath>include/Objetos/Plataforma.h</itemPath>
+        <itemPath>include/Objetos/PlataformaMovil.h</itemPath>
+        <itemPath>include/Objetos/Roca.h</itemPath>
+        <itemPath>include/Objetos/Silencio.h</itemPath>
+        <itemPath>include/Objetos/Suelo.h</itemPath>
+      </logicalFolder>
+      <itemPath>include/Animacion.h</itemPath>
+      <itemPath>include/Camara.h</itemPath>
+      <itemPath>include/ConversorFisico.h</itemPath>
+      <itemPath>include/DatosCancion.h</itemPath>
+      <itemPath>include/DatosPartida.h</itemPath>
+      <itemPath>include/DetectorColisiones.h</itemPath>
+      <itemPath>include/ElementoGUI.h</itemPath>
+      <itemPath>include/Enemigo.h</itemPath>
+      <itemPath>include/EstadoJuego.h</itemPath>
+      <itemPath>include/FMODAux.h</itemPath>
+      <itemPath>include/GUIAux.h</itemPath>
+      <itemPath>include/GeneradorNiveles.h</itemPath>
+      <itemPath>include/GosuAux.h</itemPath>
+      <itemPath>include/IAEnemigo.h</itemPath>
+      <itemPath>include/InterfazAudio.h</itemPath>
+      <itemPath>include/InterfazFisica.h</itemPath>
+      <itemPath>include/InterfazIA.h</itemPath>
+      <itemPath>include/Juego.h</itemPath>
+      <itemPath>include/Nivel.h</itemPath>
+      <itemPath>include/Objeto.h</itemPath>
+      <itemPath>include/ObjetoFijo.h</itemPath>
+      <itemPath>include/ObjetoMovil.h</itemPath>
+      <itemPath>include/ProcesadorAudio.h</itemPath>
+      <itemPath>include/Protagonista.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true"
+                   kind="SOURCE_LOGICAL_FOLDER">
+      <logicalFolder name="f3"
+                     displayName="Enemigos"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>lib/Enemigos/Bola.cpp</itemPath>
+        <itemPath>lib/Enemigos/Cuadrado.cpp</itemPath>
+        <itemPath>lib/Enemigos/Gusano.cpp</itemPath>
+        <itemPath>lib/Enemigos/Jefe.cpp</itemPath>
+        <itemPath>lib/Enemigos/Rueda.cpp</itemPath>
+        <itemPath>lib/Enemigos/Triangulo.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1"
+                     displayName="Estados"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>lib/Estados/EstadoCancion.cpp</itemPath>
+        <itemPath>lib/Estados/EstadoFin.cpp</itemPath>
+        <itemPath>lib/Estados/EstadoGameOver.cpp</itemPath>
+        <itemPath>lib/Estados/EstadoMenu.cpp</itemPath>
+        <itemPath>lib/Estados/EstadoPartida.cpp</itemPath>
+        <itemPath>lib/Estados/EstadoTutorial.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f2"
+                     displayName="GUI"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>lib/GUI/Boton.cpp</itemPath>
+        <itemPath>lib/GUI/CampoTexto.cpp</itemPath>
+        <itemPath>lib/GUI/Panel.cpp</itemPath>
+        <itemPath>lib/GUI/Texto.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f6"
+                     displayName="IAEnemigos"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>lib/IAEnemigos/IABola.cpp</itemPath>
+        <itemPath>lib/IAEnemigos/IACuadrado.cpp</itemPath>
+        <itemPath>lib/IAEnemigos/IAGusano.cpp</itemPath>
+        <itemPath>lib/IAEnemigos/IARueda.cpp</itemPath>
+        <itemPath>lib/IAEnemigos/IATriangulo.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f5"
+                     displayName="LD"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>lib/LD/FuzzyModule.cpp</itemPath>
+        <itemPath>lib/LD/FuzzySet.cpp</itemPath>
+        <itemPath>lib/LD/FuzzySet_LeftShoulder.cpp</itemPath>
+        <itemPath>lib/LD/FuzzySet_RightShoulder.cpp</itemPath>
+        <itemPath>lib/LD/FuzzySet_Trapezium.cpp</itemPath>
+        <itemPath>lib/LD/FuzzySet_Triangle.cpp</itemPath>
+        <itemPath>lib/LD/FuzzyVariable.cpp</itemPath>
+        <itemPath>lib/LD/FzAnd.cpp</itemPath>
+        <itemPath>lib/LD/FzFairly.cpp</itemPath>
+        <itemPath>lib/LD/FzOr.cpp</itemPath>
+        <itemPath>lib/LD/FzSet.cpp</itemPath>
+        <itemPath>lib/LD/FzVery.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f4"
+                     displayName="Objetos"
+                     projectFiles="true"
+                     kind="SOURCE_LOGICAL_FOLDER">
+        <itemPath>lib/Objetos/Bala.cpp</itemPath>
+        <itemPath>lib/Objetos/BloqueSimetrico.cpp</itemPath>
+        <itemPath>lib/Objetos/BloquesSimetricos.cpp</itemPath>
+        <itemPath>lib/Objetos/Estrella.cpp</itemPath>
+        <itemPath>lib/Objetos/Meta.cpp</itemPath>
+        <itemPath>lib/Objetos/Pico.cpp</itemPath>
+        <itemPath>lib/Objetos/Pinchos.cpp</itemPath>
+        <itemPath>lib/Objetos/Plataforma.cpp</itemPath>
+        <itemPath>lib/Objetos/PlataformaMovil.cpp</itemPath>
+        <itemPath>lib/Objetos/Roca.cpp</itemPath>
+        <itemPath>lib/Objetos/Silencio.cpp</itemPath>
+        <itemPath>lib/Objetos/Suelo.cpp</itemPath>
+      </logicalFolder>
+      <itemPath>lib/Animacion.cpp</itemPath>
+      <itemPath>lib/Camara.cpp</itemPath>
+      <itemPath>lib/ConversorFisico.cpp</itemPath>
+      <itemPath>lib/DatosCancion.cpp</itemPath>
+      <itemPath>lib/DatosPartida.cpp</itemPath>
+      <itemPath>lib/DetectorColisiones.cpp</itemPath>
+      <itemPath>lib/ElementoGUI.cpp</itemPath>
+      <itemPath>lib/Enemigo.cpp</itemPath>
+      <itemPath>lib/EstadoJuego.cpp</itemPath>
+      <itemPath>lib/GeneradorNiveles.cpp</itemPath>
+      <itemPath>lib/IAEnemigo.cpp</itemPath>
+      <itemPath>lib/InterfazAudio.cpp</itemPath>
+      <itemPath>lib/InterfazFisica.cpp</itemPath>
+      <itemPath>lib/InterfazIA.cpp</itemPath>
+      <itemPath>lib/Juego.cpp</itemPath>
+      <itemPath>lib/Nivel.cpp</itemPath>
+      <itemPath>lib/Objeto.cpp</itemPath>
+      <itemPath>lib/ObjetoFijo.cpp</itemPath>
+      <itemPath>lib/ObjetoMovil.cpp</itemPath>
+      <itemPath>lib/ProcesadorAudio.cpp</itemPath>
+      <itemPath>lib/Protagonista.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true"
+                   kind="SOURCE_LOGICAL_FOLDER">
+      <itemPath>src/main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>lib</Elem>
+    <Elem>include</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <commandlineTool>g++</commandlineTool>
+          <incDir>
+            <pElem>include</pElem>
+          </incDir>
+          <commandLine>`gosu-config --cxxflags` </commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/proyecto</output>
+          <linkerLibItems>
+            <linkerLibLibItem>Box2D</linkerLibLibItem>
+            <linkerLibLibItem>musicbrainz3</linkerLibLibItem>
+            <linkerLibLibItem>tinyxml</linkerLibLibItem>
+          </linkerLibItems>
+          <commandLine>-lfftw3 -lm -lgosu `gosu-config --libs` fmod/api/lib/libfmodex.so -pthread</commandLine>
+        </linkerTool>
+      </compileType>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <commandLine>`gosu-config --cxxflags` -g -Iinclude </commandLine>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerLibLibItem>tinyxml</linkerLibLibItem>
+            <linkerLibLibItem>Box2D</linkerLibLibItem>
+          </linkerLibItems>
+          <commandLine>-lfftw3 -lm -lgosu `gosu-config --libs` fmod/api/lib/libfmodex.so -pthread</commandLine>
+        </linkerTool>
+      </compileType>
+    </conf>
+  </confs>
+</configurationDescriptor>
